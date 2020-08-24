@@ -7,7 +7,7 @@
  * 更新地址：https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/github.js
  * 配置方法：
  * 1. 填写github token, 在github > settings > developer settings > personal access token 里面生成一个新token。
- * 默认TOKEN用的是我自己的，请不要请求过于频繁，每天一两次即可。例如：cron "0 9 * * *"* 2. 配置仓库地址，格式如下：
+ * 2. 配置仓库地址，格式如下：
  * {
  *  name: "",//填写仓库名称，可自定义
  *  file_names:[],//可选参数。若需要监控具体文件或目录，请填写路径（具体看下面示例）。
