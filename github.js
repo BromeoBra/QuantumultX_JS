@@ -46,6 +46,10 @@ let repositories = [
         url: "https://github.com/toulanboy/scripts/tree/master",
     },
     {
+        name: "Bromeobra",
+        url: "https://github.com/BromeoBra/QuantumultX_JS",
+    },
+    {
         name: "HttpCatcher",
         url: "https://github.com/pm936/httpcatcher",
     },
