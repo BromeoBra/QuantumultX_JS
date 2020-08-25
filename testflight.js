@@ -1,8 +1,8 @@
 
 /**
- * 参考chavyleung和NobyDa的写法
- * 写入要监测的公测tf appkey，当有空位的时候会弹出通知。
- * 建议task时间间隔小点。
+ * 源项目：https://github.com/songyangzz/QuantumultX/tree/master/testflight.js
+ * 已自定义需要的公测tf appkey，当有空位的时候会弹出通知。📌监测：QuantumultX， Pin， Pythonista3， Loon
+ *
  */
 const sy = init()
 const title = 'testfilght';
@@ -12,7 +12,7 @@ const url = "https://testflight.apple.com/join/";
  * 填入要监测的appkey。从testfligt地址获取。
  * 例如"VCIvwk2g,wArXdacJ,2vnRvOTX,LzjySbQx,IdFRwmNy,qDkBu2ur,4Qt2lIm5,ZzqOu8tX,ftCqFe6D,fy7LvHVA,QKqitFwc"
 */
-const appkey = "VCIvwk2g,dJwy1mS1,qDkBu2ur,23LA2tmX";// 分别为：QuantumultX， Pin， Pythonista3， Loon
+const appkey = "VCIvwk2g,dJwy1mS1,qDkBu2ur,23LA2tmX";// 📌分别为：QuantumultX， Pin， Pythonista3， Loon
 
 //是否在没有tf位置的时候仍然弹出通知，默认不弹出,防止过多无用通知。
 var isNOtify = false;
