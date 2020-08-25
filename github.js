@@ -1,9 +1,9 @@
 /**
- * 2020年06月17日
+ * 源项目：https://github.com/Peng-YM/QuanX/tree/master/Tasks/github.js
  * 1、监控github仓库的commits和release。
  * 2、监控具体的文件或目录是否有更新。
  * 3、新增：可以监控多层目录里面的某个文件
- * @author: Peng-YM， toulanboy
+ * 
  * 更新地址：https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/github.js
  * 配置方法：
  * 1. 填写github token, 在github > settings > developer settings > personal access token 里面生成一个新token。
