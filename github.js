@@ -46,6 +46,11 @@ let repositories = [
         url: "https://github.com/toulanboy/scripts/tree/master",
     },
     {
+        name: "evilbutcher的关注",
+        file_names: ["check_in/weibo", "check_in/idaily"], // 📌注意两目录间逗号后有空格
+        url: "https://github.com/evilbutcher/Quantumult_X/tree/master",
+    },
+    {
         name: "Bromeobra",
         url: "https://github.com/BromeoBra/QuantumultX_JS",
     },
