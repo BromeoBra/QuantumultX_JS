@@ -32,7 +32,7 @@ let repositories = [
     },
     {
         name: "chavyleung的关注",
-        file_names: ["wps", "10010", "10086", "rrtv", "videoqq", "wanda", "neteasemusic", "ximalaya", "meituan"], // 📌注意两目录间逗号后有空格
+        file_names: ["wps", "10010", "10086", "rrtv", "videoqq",  "neteasemusic", "ximalaya", "meituan"], // 📌注意两目录间逗号后有空格
         url: "https://github.com/chavyleung/scripts/tree/master", 
     },
     {
